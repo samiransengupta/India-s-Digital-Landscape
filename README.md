@@ -16,12 +16,13 @@
 
 🧰 Tools used: STATA, Python, SQL, Excel, Tableau, draw.io
 
-  **Read Article here**
+  
 **📰 [Read Article](https://www.thehindu.com/data/analysing-internet-access-and-digital-skills-in-india/article69712047.ece)**
 
 **📊 [See Dashboard](https://public.tableau.com/views/cms_2022_23/Story2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
   ## If you have questions or feedback, feel free to reach out -
+  
   samiran.sengupta@gmail.com
   
   https://www.linkedin.com/in/samiran-sengupta/
