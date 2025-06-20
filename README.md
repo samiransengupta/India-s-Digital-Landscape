@@ -8,10 +8,12 @@
 - What basic ICT skill sets do Indians possess?
 - Do disparities exist along lines of geography, caste, class, or gender?
 
-[Workflow Diagram](C:\Users\samir\Desktop\NSSO_DATA\Comprihensive_Annual_Modular_Survey_2022_23\results_analysis\digital_india_workflow.drawio.png)
+[Workflow Diagram](read_me_assets/digital_india_workflow.drawio.png)
 
 📁 Data_Descriptions/ — Contains metadata, codebook, and documentation 
+
 📁 Scripts/ — Includes Python and SQL scripts used for data cleaning, merging, and analysis 
+
 🧰 Tools used: STATA, Python, SQL, Excel, Tableau, draw.io
 
   **Read Article here**
@@ -21,6 +23,7 @@
 
   ## If you have questions or feedback, feel free to reach out -
   samiran.sengupta@gmail.com
+  
   https://www.linkedin.com/in/samiran-sengupta/
 
   
